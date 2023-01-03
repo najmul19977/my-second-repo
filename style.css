@@ -6,3 +6,10 @@ h1{
     text-transform: uppercase;
     border: 2px solid black;
 }
+ul li{
+    border: 2px solid black;
+
+}
+ol li{
+    border: 2px solid double black;
+}
